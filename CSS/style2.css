@@ -1,0 +1,20 @@
+
+body{
+	background:#EEE;
+	font-family: arial, helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	
+}
+
+#wrapper{
+	width:960px;
+	margin:0 auto;
+	height:400px;
+}
+
+#myDiv1{
+	margin: 30px auto;
+	width: 400px;
+	height: 400px;
+}
